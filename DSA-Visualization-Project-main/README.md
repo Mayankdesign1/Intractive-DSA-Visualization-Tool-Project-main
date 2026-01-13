@@ -10,7 +10,6 @@ Welcome to the Data Structures Visualization project! This repository aims to en
 - [Technologies Used](#technologies-used)
 - [How to Use Locally](#how-to-use-locally)
 - [Contributing](#contributing)
-- [Live Demo](#live-demo)
 
 ## Features
 
@@ -78,7 +77,3 @@ To run this project locally, follow these steps:
 ## Contributing
 
 We welcome contributions to enrich this educational tool. If you have ideas for improvements, new features, or bug fixes, please feel free to fork the repository, create a new branch, and submit a pull request. Your contributions are greatly appreciated.
-
-## Live Demo
-
-Explore the live demo of the project at https://lokeshwar-dsa-visualize.netlify.app to interact with the visualizations firsthand.
